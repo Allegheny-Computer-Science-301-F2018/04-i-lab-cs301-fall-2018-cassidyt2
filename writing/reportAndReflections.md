@@ -47,4 +47,6 @@ causing unhealthy babies, the mothers drinking coffee were having unhealthy preg
 how few doctors and health professionals have meaninful experience with the field. It supported a lot of what we've discussed 
 in class: the sheer versatility of the skills we're learning, and the broad range real world data sets we now have the tools 
 to get answers from. 
-    
+
+
+data source: https://www.dds.ca.gov/Autism/docs/AutismReport_2007.pdf
